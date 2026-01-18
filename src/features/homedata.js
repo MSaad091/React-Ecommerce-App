@@ -8,7 +8,7 @@ const homedataSlice = createSlice({
             id:"1",
             name:"Shoes",
             bname:"Nike",
-            img: '/public/sheoes3 (1).jpg',
+            img: '/public/banner.jpg',
             price:"2000",
             info: '50% Off This Shoes'
         },
