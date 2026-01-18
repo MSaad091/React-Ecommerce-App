@@ -3,7 +3,7 @@
 A modern **E-Commerce web application** built with **React.js** and **Redux Toolkit**, deployed on **Vercel**.
 
  **Live Demo:**  
-https://react-ecommerce-app-two-pi.vercel.app/shop
+https://react-ecommerce-app-two-pi.vercel.app/
 
 ---
 
