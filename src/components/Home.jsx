@@ -25,6 +25,7 @@ const Home = () => {
             <h1>
               Discover Premium <span>Products</span>
             </h1>
+           
             <p>
               Explore high-quality footwear & accessories designed for comfort,
               style and performance.
